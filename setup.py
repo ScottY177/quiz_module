@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['118A_quiz'],
-    install_requires=['requests'],
+    install_requires=[''],
 )
