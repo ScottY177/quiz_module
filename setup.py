@@ -11,9 +11,9 @@ setuptools.setup(
     description='Display the quiz content',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/Muls/toolbox',
+    url='https://github.com/ScottY177/quiz_module',
     project_urls = {
-        "Bug Tracker": "https://github.com/Muls/toolbox/issues"
+        "Bug Tracker": "https://github.com/ScottY177/quiz_module/issues"
     },
     license='MIT',
     packages=['118A_quiz'],
