@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='jupyter-quiz',
+    name='jupyter_quiz',
     version='0.0.1',
     author='Scott',
     author_email='yuy004@ucsd.edu',
