@@ -17,7 +17,7 @@ setuptools.setup(
     },
     license='MIT',
     packages=['quiz_module'],
-    package_data = {},
+    package_data = {"": ["*.js", "*.css"]},
     include_package_data = True,
     install_requires=[''],
 )
