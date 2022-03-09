@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/ScottY177/quiz_module/issues"
     },
     license='MIT',
-    packages=['jupyter-quiz'],
+    packages=['jupyter_quiz'],
     install_requires=[''],
 )
