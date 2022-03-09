@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='jupyter_quiz',
+    name='quiz_module',
     version='0.0.1',
     author='Scott',
     author_email='yuy004@ucsd.edu',
@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/ScottY177/quiz_module/issues"
     },
     license='MIT',
-    packages=['jupyter_quiz'],
+    packages=['quiz_module'],
     install_requires=[''],
 )
